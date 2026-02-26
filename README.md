@@ -14,7 +14,7 @@ to a DDA-based approach to remove fisheye distortion and improve accuracy.
 
 | 2D Map View | 3D First-Person View |
 |------------|----------------------|
-| ![](screenshots/kalman filter.png) | ![](screenshots/v2_3D_View.png) |
+| ![](screenshots/kalman_filter.png) | ![](screenshots/v2_3D_View.png) |
 
 ---
 
