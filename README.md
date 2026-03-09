@@ -21,7 +21,7 @@ to a DDA-based approach to remove fisheye distortion and improve accuracy.
 
 | Multi-Object Kalman Tracker (Const. Acceleration Model) | Raw Camera Image |
 |-------------------------------------|------------------|
-| <img src="screenshots/kalman_filter.png" width="400"> | <img src="screenshots/corresponding_camera_image.png" width="400"> |
+| <img src="screenshots/MOT_image.png" width="400"> | <img src="screenshots/corresponding_camera_image.png" width="400"> |
 ---
 
 ## Project Evolution
